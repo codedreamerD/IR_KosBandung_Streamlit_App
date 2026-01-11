@@ -1,0 +1,8 @@
+doc_id: D3
+nama_kos: Kost Putri Suti-Karno
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Penginapan paling nyaman, lokasinya sangat strategis, dekat dengan banyak kampus, kamarnya nyaman, ditambah wifi-nya sangat bagus

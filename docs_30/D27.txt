@@ -1,0 +1,8 @@
+doc_id: D27
+nama_kos: Kost Oranye Cikutra Baru
+lokasi_kecamatan: Cibeunying Kaler
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Udah 1 tahunan kost disini, ibu sama bapak kost nya baik. Fasilitas lengkap, posisi strategis harga juga middle.

@@ -1,0 +1,8 @@
+doc_id: D26
+nama_kos: Kost Putra Teh Eva
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Kost pria yang bersih dan nyaman, fasilitas lengkap (mesin cuci & jemuran), wifi yg stabil, CCTV, smart tv di setiap kamar, air 24 jam, dapur umum dan parkiran motor yg luas. Highly recommended untuk yg lagi nyari kos-kosan pria di daerah Kota Bandung. Dekat dari beberapa kampus seperti Universitas Sangga Buana YPKP, ITENAS.

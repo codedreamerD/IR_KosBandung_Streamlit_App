@@ -1,0 +1,8 @@
+doc_id: D5
+nama_kos: Kost Putri Sakinah Bandung
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Tempat yang bagus dan aman untuk ditinggali.

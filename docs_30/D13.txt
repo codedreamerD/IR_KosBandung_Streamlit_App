@@ -1,0 +1,8 @@
+doc_id: D13
+nama_kos: Kost Putra Cikutra TCB25
+lokasi_kecamatan: Cibeunying Kaler
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Pelayanan kosan terbaik, kebersihan kamar, kamar mandi, dan fasilitas yang sangat bersih, Wifi kenceng. Ibu kos sangat ramah dan responsif. Bakal langganan nginep disini kalo main kebandung, Terima kasihh Kost Putra Cikutra

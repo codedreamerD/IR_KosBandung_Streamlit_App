@@ -1,0 +1,8 @@
+doc_id: D6
+nama_kos: KOSAN 22-24 khusus Putra
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Pemilik Kost Baik banget. Sehat terus buk lela. Kost an Nyaman, Tenang, Bersih, Harga Bersahabat, Dekat dengan Mesjid. Ada bibi-bibi yang bersih2 hampir tiap hari juga. Cocok buat Mahasiswa atau Karyawan. Lingkungan sekitar Sangat Ramah. Dibagian depan jalan masuk dijaga oleh security (Semakin Aman). Senang pernah nge-kost disini.

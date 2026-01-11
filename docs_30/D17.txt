@@ -1,0 +1,8 @@
+doc_id: D17
+nama_kos: Kost Hijau Pak Slamet
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Kostan bersih, nyaman, dekat dengan pusat kota

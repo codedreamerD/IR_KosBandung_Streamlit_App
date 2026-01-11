@@ -1,0 +1,8 @@
+doc_id: D23
+nama_kos: Kost Dynia (khusus putri)
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+selama 1 tahun kost disini tempat nya nyaman sekali, bersih, parkiran motor luas, ibu kost nya pun baik, dan akses nya juga dekat kemana mana, rekomendasi sekali.

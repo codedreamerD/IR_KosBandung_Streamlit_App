@@ -1,0 +1,8 @@
+doc_id: D25
+nama_kos: Kosan H. Amin
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Kosannya nyaman, murah dan pemiliknya baik. Saya dari 2014-2018 gapernah pindah dari sini. Kalo ada yang tau nomor hp bapak/ibu kost nya tolong komentar disni, karena saya putus komunikasi 6 tahun lalu. Mau ucap terima kasih karena sudah baik merawat saya diperantauan waktu itu.

@@ -1,0 +1,8 @@
+doc_id: D2
+nama_kos: A4 Kost Cikutra
+lokasi_kecamatan: Cibeunying Kaler
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Betah banget disini, nyaman, yang punya, dan penghuni lain nya bikin nyaman, ramah2 dan baik2. Sayangnya survei proyek kelamaan, jadi pindah tempat tidur dulu. Tapi next kalo dah ke kantor bandung lagi, pasti bakal balik lagi ke kosan ini. Udah kaya pulang ke tempat keluarga. Sayang sekali pas pindah, pas panen mangga, engga kebagian deh mangga nya.

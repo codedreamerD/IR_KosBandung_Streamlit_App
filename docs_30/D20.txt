@@ -1,0 +1,8 @@
+doc_id: D20
+nama_kos: IDA'S KOST
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Semester kemarin aku ngekos disini, fasilitas full ada yang km luar/dalam + ada laundry, sekarang sudah dipasang 2 CCTV untuk keamanan. Menurut aku ini kosan strategis dekat kemana², cumn susahnya hanya di mobil tidak bisa masuk karna memang bukan jalan umum mobil...

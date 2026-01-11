@@ -1,0 +1,8 @@
+doc_id: D12
+nama_kos: KOST ANTON 170B
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Kost mantap murah akses masuk mudun curam menantang adrenalin. Pria punya selera

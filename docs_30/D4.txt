@@ -1,0 +1,8 @@
+doc_id: D4
+nama_kos: Pondok Kost Audit - STABA, Ekuitas, YPKP, Widyatama, Itenas, ARS khusus Putri
+lokasi_kecamatan: Cimenyan
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Tempatnya oke, fasilitas lengkap ada mesin cuci, dapur bersama, ruang tamu sama meja makan, mantap

@@ -1,0 +1,8 @@
+doc_id: D14
+nama_kos: Kost Putih (Putra)
+lokasi_kecamatan: Cibeunying Kaler
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Harganya memang agak tinggi dibandingkan dengan rumah kos di sebelah, tapi fasilitasnya sepadan.

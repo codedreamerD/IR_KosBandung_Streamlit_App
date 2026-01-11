@@ -1,0 +1,8 @@
+doc_id: D7
+nama_kos: Kost Sulaeman
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Rumah kos ini nyaman, lokasinya strategis dekat pasar + Alfamart, fasilitasnya cukup lengkap, terutama dengan tambahan mesin cuci untuk kenyamanan penghuni. Terlebih lagi, pemilik rumah kos sangat responsif jika ada masalah di rumah kos. Mungkin kurangnya area jemuran agak sempit tapi sudah cukup.. rumah kos terbaik.

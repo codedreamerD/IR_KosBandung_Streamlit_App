@@ -1,0 +1,8 @@
+doc_id: D19
+nama_kos: Kosan Mahasiswa Sehati
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Kostannya enak nyaman, deket banget sama kampus saya (itenas), bapak kost nya baik, saya sudah 3 taun kost disini, ga pindah-pindah karena nyaman.

@@ -1,0 +1,8 @@
+doc_id: D22
+nama_kos: Kost Puri Yubifa
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Kosan mahal tapi worth it. Ada kamar mandi dalem (wastafel, wc duduk, shower) tv, kasur, meja kursi, lemari. Parkiran luas, ada yg jaga dan cctv. Khusus kosan cewek.

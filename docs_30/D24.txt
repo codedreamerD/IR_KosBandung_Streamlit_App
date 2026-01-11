@@ -1,0 +1,8 @@
+doc_id: D24
+nama_kos: Kost Putra Icih Nata
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Mantap, fasilitas lengkap (air dan listrik sudah termasuk biaya kos). WiFi Indihome patungan, speed max di 50 Mbps, FUP/kuota WiFi 1,8 TB (1800 GB/bulan), cukup untuk seluruh penghuni kos dalam 1 bulan (selama pemakaian internet wajar dan tidak boros). Tempat parkir motor terbatas (tamu tidak bisa parkir). Masjid dekat, warung dekat, Itenas dekat, warteg dekat, Indomaret dekat.

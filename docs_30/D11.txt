@@ -1,0 +1,8 @@
+doc_id: D11
+nama_kos: Kost Putri Cikutra - Griya Handayani
+lokasi_kecamatan: Cibeunying Kaler
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Tempat ini nyaman dan aman karena ada seorang pemilik rumah yang tinggal di sana.

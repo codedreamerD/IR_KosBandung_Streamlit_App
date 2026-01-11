@@ -1,0 +1,8 @@
+doc_id: D28
+nama_kos: Kost Lavender
+lokasi_kecamatan: Cibeunying Kaler
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Bersih. Dilengkapi dengan pemanas air dan kamar mandi di dalam kamar. Cocok untuk sewa bulanan atau harian. Namun, sedikit mahal untuk mahasiswa.

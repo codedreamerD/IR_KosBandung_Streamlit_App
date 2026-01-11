@@ -1,0 +1,8 @@
+doc_id: D10
+nama_kos: Kosan 17
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Dekat kampus kampus ternama seperti itenas, widyatama, unpad.

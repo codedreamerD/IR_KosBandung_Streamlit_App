@@ -1,0 +1,8 @@
+doc_id: D30
+nama_kos: Kost Bumi Putri
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Anak saya sudah 2 tahun kos disini tempatnya bersih dan yang sangat penting itu aman.

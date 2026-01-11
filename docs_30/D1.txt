@@ -1,0 +1,8 @@
+doc_id: D1
+nama_kos: KOST D’LIKA
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Kamarnya lumayan besar ukuran 3x4 bersih dan nyaman, bapa sama ibu kostnya baik dan ramah.

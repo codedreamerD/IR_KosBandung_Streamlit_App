@@ -1,0 +1,8 @@
+doc_id: D16
+nama_kos: KOS PUTRI AMBARINI
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Tempat kost yg nyaman dan menyenangkan baik untuk mahasiswi maupun untuk karyawati. Selain mudah dijangkau, fasilitasnya lengkap, ibu kost nya juga sangat ramah. Top deh.

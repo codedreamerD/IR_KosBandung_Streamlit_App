@@ -1,0 +1,8 @@
+doc_id: D8
+nama_kos: Kost Bandung Wisma 812
+lokasi_kecamatan: Cibeunying Kaler
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Dengan harga yang recommended, pelayanan oke , pihak kostnya ramah banget , untuk fasilitas kamar kost menyesuaikan dengan harga lah yaaa , tapi di sini bener-bener nyaman banget.

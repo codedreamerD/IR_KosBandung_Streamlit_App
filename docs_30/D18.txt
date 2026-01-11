@@ -1,0 +1,8 @@
+doc_id: D18
+nama_kos: Kost Putri Himawari
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+Tempat luas, kost bebas, tampat kost nyaman.

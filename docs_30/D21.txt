@@ -1,0 +1,8 @@
+doc_id: D21
+nama_kos: Rumah kost putra cikutra baru IV No.5
+lokasi_kecamatan: Cibeunying Kaler
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+kosan nya rapih bersih airnya pun bagus

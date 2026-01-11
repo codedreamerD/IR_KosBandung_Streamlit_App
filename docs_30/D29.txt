@@ -1,0 +1,8 @@
+doc_id: D29
+nama_kos: Kost Sukacita BANDUNG
+lokasi_kecamatan: Cibeunying Kaler
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+harga terjangkau, fasilitas lengkap, kamar mandi air anget, dapur bersih, tempat nongkrong enak, penjaga kos baik dan cocok diajak ngobrol, worth it buat mahasiswa yg kuliah.

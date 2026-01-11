@@ -1,0 +1,8 @@
+doc_id: D15
+nama_kos: Kost 43 Ibu Siti Matoyah
+lokasi_kecamatan: Cibeunying Kidul
+sumber: Google Maps
+tanggal: 07-01-2026
+
+review_text:
+kost nya bersih dan bagus, lengkap dengan fasilitas nya
